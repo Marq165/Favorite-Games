@@ -1,10 +1,6 @@
 * {
   margin: 0;
   padding: 0;
-  max-height: auto;
-  min-height: auto;
-  max-width: auto;
-  min-width: auto;
 }
 
 #title {
@@ -34,4 +30,5 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 200px;
   border-color: black;
+  margin: auto;
 }
