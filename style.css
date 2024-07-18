@@ -33,4 +33,6 @@ body {
   margin: auto;
   min_width: 300px;
   max_width: 600px;
+  min-height: 200px;
+  max-height: 300px
 }
