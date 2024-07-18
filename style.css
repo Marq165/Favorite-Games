@@ -31,4 +31,6 @@ body {
   padding: 200px;
   border-color: black;
   margin: auto;
+  min_width: 300px;
+  max_width: 600px;
 }
