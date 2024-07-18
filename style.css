@@ -28,7 +28,7 @@ body {
   padding: 200px;
   border-color: black;
   margin: auto;
-  min_width: 300px;
-  max_width: 1920px;
-  max-height: 300px
+  max_width: auto;
+  max-height: auto;
+  white-space: normal;
 }
