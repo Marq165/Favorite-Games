@@ -10,7 +10,7 @@
 
 body {
   background-image: url(Background/luxa.org-opacity-changed-fantasy-house-moon-illustration.jpg);
-  text-align: center;
+  text-align:
 }
 
 .game-title {
@@ -31,8 +31,5 @@ body {
   font-family: Georgia, "Times New Roman", Times, serif;
   padding: 200px;
   border-color: black;
-  margin: auto;
-  width: auto;
-  max-height: auto;
-  white-space: normal;
+  text-align: center;
 }
