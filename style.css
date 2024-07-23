@@ -32,7 +32,7 @@ body {
   padding: 200px;
   border-color: black;
   margin: auto;
-  max_width: auto;
+  width: auto;
   max-height: auto;
   white-space: normal;
 }
